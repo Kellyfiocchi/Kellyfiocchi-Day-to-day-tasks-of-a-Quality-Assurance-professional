@@ -25,5 +25,5 @@
 - ### Parte 4 - O dia da Planning! ✅
 - ### Parte 5 - Documentação de testes: mind map, casos e cenários de teste ✅
 - ### Parte 6 - A prática da documentação de teste: Conceitos e teoria  ✅
-- ### Parte 7 - Aprática da documentação de teste: Aplicando os conceitos
+- ### Parte 7 - Aprática da documentação de teste: Aplicando os conceitos✅
   
