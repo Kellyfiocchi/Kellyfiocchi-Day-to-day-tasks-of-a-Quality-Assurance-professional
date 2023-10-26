@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://brunohdorea.atlassian.net/jira/software/projects/PROJ/boards/2/roadmap">Jira</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://www.atlassian.com/br/software/jira">Jira</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
@@ -16,8 +16,8 @@
 
 Neste projeto foi utilizada as seguintes ferramentas:
 
-- [Jira](https://brunohdorea.atlassian.net/jira/software/projects/PROJ/boards/2/roadmap)
-- [Confluence](https://brunohdorea.atlassian.net/wiki/home)
+- [Jira](https://www.atlassian.com/br/software/jira)
+- [Confluence](https://www.atlassian.com/br/software/jira)
 
 
 ## 💻 Projeto
